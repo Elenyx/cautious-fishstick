@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES2019",
+    "module": "ESNext",
+    "jsx": "react",
+    "lib": ["ESNext", "DOM"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "strict": true,
+    "noEmit": true,
+    "baseUrl": "."
+  },
+  "exclude": ["node_modules", "dist"]
+}
